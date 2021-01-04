@@ -1,0 +1,21 @@
+.apptitle {
+  margin: 1rem 0;
+  font-size: 40px;
+  color: #295bff;
+}
+
+.todolist {
+  padding-left: 0;
+}
+
+.filter-row{
+  display: flex;
+}
+
+.filter-col-btn{
+  margin: 16px;
+}
+
+.filter-col-btn > button{
+  margin-left: 10px;
+}
