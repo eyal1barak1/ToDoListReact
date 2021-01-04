@@ -8,14 +8,14 @@
   padding-left: 0;
 }
 
-.filter-row{
+.filter-row {
   display: flex;
 }
 
-.filter-col-btn{
+.filter-col-btn {
   margin: 16px;
 }
 
-.filter-col-btn > button{
+.filter-col-btn>button {
   margin-left: 10px;
 }
